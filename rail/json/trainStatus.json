@@ -1,0 +1,1109 @@
+{
+"error": "",
+"position": "Train departed from KALYAN JN(KYN) and late by 101 minutes.",
+"train_number": "12138",
+"response_code": 200,
+"route": [
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "FIROZPUR CANT",
+"code": "FZR"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 0,
+"no": 1,
+"has_arrived": true,
+"station": "FZR",
+"day": 0,
+"actarr": "00:00",
+"actdep": "21:40",
+"scharr": "Source",
+"latemin": 0,
+"schdep": "21:40",
+"status": "0 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "FARIDKOT",
+"code": "FDK"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 32,
+"no": 2,
+"has_arrived": true,
+"station": "FDK",
+"day": 0,
+"actarr": "22:15",
+"actdep": "22:17",
+"scharr": "22:05",
+"latemin": 10,
+"schdep": "22:07",
+"status": "10 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "KOT KAPURA",
+"code": "KKP"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 44,
+"no": 3,
+"has_arrived": true,
+"station": "KKP",
+"day": 0,
+"actarr": "22:32",
+"actdep": "22:34",
+"scharr": "22:23",
+"latemin": 9,
+"schdep": "22:25",
+"status": "9 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "GANGSAR JAITU",
+"code": "GJUT"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 60,
+"no": 4,
+"has_arrived": true,
+"station": "GJUT",
+"day": 0,
+"actarr": "22:50",
+"actdep": "22:51",
+"scharr": "22:38",
+"latemin": 12,
+"schdep": "22:40",
+"status": "12 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "GONEANA",
+"code": "GNA"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 75,
+"no": 5,
+"has_arrived": true,
+"station": "GNA",
+"day": 0,
+"actarr": "23:05",
+"actdep": "23:07",
+"scharr": "22:54",
+"latemin": 11,
+"schdep": "22:56",
+"status": "11 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "4 Apr 2017",
+"station_": {
+"name": "BHATINDA JN",
+"code": "BTI"
+},
+"actarr_date": "4 Apr 2017",
+"distance": 87,
+"no": 6,
+"has_arrived": true,
+"station": "BTI",
+"day": 0,
+"actarr": "23:25",
+"actdep": "23:35",
+"scharr": "23:25",
+"latemin": 0,
+"schdep": "23:35",
+"status": "0 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "MAUR",
+"code": "MAUR"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 121,
+"no": 7,
+"has_arrived": true,
+"station": "MAUR",
+"day": 1,
+"actarr": "00:12",
+"actdep": "00:14",
+"scharr": "00:03",
+"latemin": 9,
+"schdep": "00:05",
+"status": "9 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "MANSA",
+"code": "MSZ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 140,
+"no": 8,
+"has_arrived": true,
+"station": "MSZ",
+"day": 1,
+"actarr": "00:29",
+"actdep": "00:31",
+"scharr": "00:20",
+"latemin": 9,
+"schdep": "00:22",
+"status": "9 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BUDHLADA",
+"code": "BLZ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 156,
+"no": 9,
+"has_arrived": true,
+"station": "BLZ",
+"day": 1,
+"actarr": "01:00",
+"actdep": "01:02",
+"scharr": "00:35",
+"latemin": 25,
+"schdep": "00:37",
+"status": "25 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BARETA",
+"code": "BRZ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 171,
+"no": 10,
+"has_arrived": true,
+"station": "BRZ",
+"day": 1,
+"actarr": "01:15",
+"actdep": "01:17",
+"scharr": "00:50",
+"latemin": 25,
+"schdep": "00:52",
+"status": "25 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "JAKHAL JN",
+"code": "JHL"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 185,
+"no": 11,
+"has_arrived": true,
+"station": "JHL",
+"day": 1,
+"actarr": "01:30",
+"actdep": "01:32",
+"scharr": "01:02",
+"latemin": 28,
+"schdep": "01:04",
+"status": "28 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "TOHANA",
+"code": "TUN"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 197,
+"no": 12,
+"has_arrived": true,
+"station": "TUN",
+"day": 1,
+"actarr": "01:45",
+"actdep": "01:47",
+"scharr": "01:18",
+"latemin": 27,
+"schdep": "01:20",
+"status": "27 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "NARWANA JN",
+"code": "NRW"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 223,
+"no": 13,
+"has_arrived": true,
+"station": "NRW",
+"day": 1,
+"actarr": "02:07",
+"actdep": "02:09",
+"scharr": "01:40",
+"latemin": 27,
+"schdep": "01:42",
+"status": "27 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "JIND JN",
+"code": "JIND"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 257,
+"no": 14,
+"has_arrived": true,
+"station": "JIND",
+"day": 1,
+"actarr": "02:34",
+"actdep": "02:36",
+"scharr": "02:07",
+"latemin": 27,
+"schdep": "02:10",
+"status": "27 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "ROHTAK JN",
+"code": "ROK"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 314,
+"no": 15,
+"has_arrived": true,
+"station": "ROK",
+"day": 1,
+"actarr": "03:18",
+"actdep": "03:20",
+"scharr": "02:58",
+"latemin": 20,
+"schdep": "03:00",
+"status": "20 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BAHADURGARH",
+"code": "BGZ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 354,
+"no": 16,
+"has_arrived": true,
+"station": "BGZ",
+"day": 1,
+"actarr": "03:52",
+"actdep": "03:54",
+"scharr": "03:32",
+"latemin": 20,
+"schdep": "03:34",
+"status": "20 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "SHAKURBASTI",
+"code": "SSB"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 374,
+"no": 17,
+"has_arrived": true,
+"station": "SSB",
+"day": 1,
+"actarr": "04:11",
+"actdep": "04:13",
+"scharr": "04:08",
+"latemin": 3,
+"schdep": "04:10",
+"status": "3 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "DELHI KISHANGNJ",
+"code": "DKZ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 381,
+"no": 18,
+"has_arrived": true,
+"station": "DKZ",
+"day": 1,
+"actarr": "04:27",
+"actdep": "04:30",
+"scharr": "04:23",
+"latemin": 4,
+"schdep": "04:25",
+"status": "4 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "NEW DELHI",
+"code": "NDLS"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 385,
+"no": 19,
+"has_arrived": true,
+"station": "NDLS",
+"day": 1,
+"actarr": "04:55",
+"actdep": "05:20",
+"scharr": "04:45",
+"latemin": 10,
+"schdep": "05:15",
+"status": "10 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "FARIDABAD",
+"code": "FDB"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 413,
+"no": 20,
+"has_arrived": true,
+"station": "FDB",
+"day": 1,
+"actarr": "05:49",
+"actdep": "05:51",
+"scharr": "05:44",
+"latemin": 5,
+"schdep": "05:46",
+"status": "5 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "KOSI KALAN",
+"code": "KSV"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 485,
+"no": 21,
+"has_arrived": true,
+"station": "KSV",
+"day": 1,
+"actarr": "07:02",
+"actdep": "07:07",
+"scharr": "06:57",
+"latemin": 5,
+"schdep": "06:59",
+"status": "5 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "MATHURA JN",
+"code": "MTJ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 526,
+"no": 22,
+"has_arrived": true,
+"station": "MTJ",
+"day": 1,
+"actarr": "07:45",
+"actdep": "07:48",
+"scharr": "07:37",
+"latemin": 8,
+"schdep": "07:40",
+"status": "8 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "RAJA KI MANDI",
+"code": "RKM"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 576,
+"no": 23,
+"has_arrived": true,
+"station": "RKM",
+"day": 1,
+"actarr": "08:23",
+"actdep": "08:24",
+"scharr": "08:14",
+"latemin": 9,
+"schdep": "08:16",
+"status": "9 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "AGRA CANTT",
+"code": "AGC"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 579,
+"no": 24,
+"has_arrived": true,
+"station": "AGC",
+"day": 1,
+"actarr": "08:37",
+"actdep": "08:41",
+"scharr": "08:30",
+"latemin": 7,
+"schdep": "08:35",
+"status": "7 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "DHAULPUR",
+"code": "DHO"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 632,
+"no": 25,
+"has_arrived": true,
+"station": "DHO",
+"day": 1,
+"actarr": "09:31",
+"actdep": "09:37",
+"scharr": "09:33",
+"latemin": -2,
+"schdep": "09:35",
+"status": "-2 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "MORENA",
+"code": "MRA"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 659,
+"no": 26,
+"has_arrived": true,
+"station": "MRA",
+"day": 1,
+"actarr": "10:00",
+"actdep": "10:02",
+"scharr": "09:58",
+"latemin": 2,
+"schdep": "10:00",
+"status": "2 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "GWALIOR JN.",
+"code": "GWL"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 698,
+"no": 27,
+"has_arrived": true,
+"station": "GWL",
+"day": 1,
+"actarr": "10:34",
+"actdep": "10:39",
+"scharr": "10:31",
+"latemin": 3,
+"schdep": "10:36",
+"status": "3 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "DABRA",
+"code": "DBA"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 740,
+"no": 28,
+"has_arrived": true,
+"station": "DBA",
+"day": 1,
+"actarr": "11:13",
+"actdep": "11:15",
+"scharr": "11:11",
+"latemin": 2,
+"schdep": "11:13",
+"status": "2 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "DATIA",
+"code": "DAA"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 770,
+"no": 29,
+"has_arrived": true,
+"station": "DAA",
+"day": 1,
+"actarr": "11:43",
+"actdep": "11:45",
+"scharr": "11:36",
+"latemin": 7,
+"schdep": "11:38",
+"status": "7 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "JHANSI JN",
+"code": "JHS"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 795,
+"no": 30,
+"has_arrived": true,
+"station": "JHS",
+"day": 1,
+"actarr": "12:17",
+"actdep": "12:35",
+"scharr": "12:25",
+"latemin": -8,
+"schdep": "12:35",
+"status": "-8 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BABINA",
+"code": "BAB"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 819,
+"no": 31,
+"has_arrived": true,
+"station": "BAB",
+"day": 1,
+"actarr": "13:53",
+"actdep": "13:55",
+"scharr": "12:58",
+"latemin": 55,
+"schdep": "13:00",
+"status": "55 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "LALITPUR",
+"code": "LAR"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 884,
+"no": 32,
+"has_arrived": true,
+"station": "LAR",
+"day": 1,
+"actarr": "15:11",
+"actdep": "15:13",
+"scharr": "13:45",
+"latemin": 86,
+"schdep": "13:47",
+"status": "86 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BINA JN",
+"code": "BINA"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 946,
+"no": 33,
+"has_arrived": true,
+"station": "BINA",
+"day": 1,
+"actarr": "16:15",
+"actdep": "16:20",
+"scharr": "14:45",
+"latemin": 90,
+"schdep": "14:50",
+"status": "90 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "GANJ BASODA",
+"code": "BAQ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 992,
+"no": 34,
+"has_arrived": true,
+"station": "BAQ",
+"day": 1,
+"actarr": "16:57",
+"actdep": "16:58",
+"scharr": "15:23",
+"latemin": 94,
+"schdep": "15:25",
+"status": "94 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "VIDISHA",
+"code": "BHS"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1031,
+"no": 35,
+"has_arrived": true,
+"station": "BHS",
+"day": 1,
+"actarr": "17:35",
+"actdep": "17:37",
+"scharr": "15:52",
+"latemin": 103,
+"schdep": "15:54",
+"status": "103 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BHOPAL  JN",
+"code": "BPL"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1085,
+"no": 36,
+"has_arrived": true,
+"station": "BPL",
+"day": 1,
+"actarr": "18:22",
+"actdep": "18:27",
+"scharr": "16:50",
+"latemin": 92,
+"schdep": "16:55",
+"status": "92 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "HABIBGANJ",
+"code": "HBJ"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1091,
+"no": 37,
+"has_arrived": true,
+"station": "HBJ",
+"day": 1,
+"actarr": "18:41",
+"actdep": "18:43",
+"scharr": "17:05",
+"latemin": 96,
+"schdep": "17:07",
+"status": "96 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "HOSHANGABAD",
+"code": "HBD"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1159,
+"no": 38,
+"has_arrived": true,
+"station": "HBD",
+"day": 1,
+"actarr": "19:47",
+"actdep": "19:49",
+"scharr": "18:05",
+"latemin": 102,
+"schdep": "18:07",
+"status": "102 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "ITARSI JN",
+"code": "ET"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1176,
+"no": 39,
+"has_arrived": true,
+"station": "ET",
+"day": 1,
+"actarr": "20:13",
+"actdep": "20:23",
+"scharr": "18:35",
+"latemin": 98,
+"schdep": "18:40",
+"status": "98 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BANAPURA",
+"code": "BPF"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1209,
+"no": 40,
+"has_arrived": true,
+"station": "BPF",
+"day": 1,
+"actarr": "20:54",
+"actdep": "20:56",
+"scharr": "19:04",
+"latemin": 110,
+"schdep": "19:06",
+"status": "110 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "HARDA",
+"code": "HD"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1252,
+"no": 41,
+"has_arrived": true,
+"station": "HD",
+"day": 1,
+"actarr": "21:30",
+"actdep": "21:32",
+"scharr": "19:37",
+"latemin": 113,
+"schdep": "19:39",
+"status": "113 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "KHIRKIYA",
+"code": "KKN"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1283,
+"no": 42,
+"has_arrived": true,
+"station": "KKN",
+"day": 1,
+"actarr": "22:01",
+"actdep": "22:03",
+"scharr": "20:04",
+"latemin": 117,
+"schdep": "20:06",
+"status": "117 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "KHANDWA",
+"code": "KNW"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1360,
+"no": 43,
+"has_arrived": true,
+"station": "KNW",
+"day": 1,
+"actarr": "23:07",
+"actdep": "23:12",
+"scharr": "21:40",
+"latemin": 87,
+"schdep": "21:45",
+"status": "87 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BURHANPUR",
+"code": "BAU"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1428,
+"no": 44,
+"has_arrived": true,
+"station": "BAU",
+"day": 2,
+"actarr": "00:07",
+"actdep": "00:09",
+"scharr": "22:33",
+"latemin": 94,
+"schdep": "22:35",
+"status": "94 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "BHUSAVAL JN",
+"code": "BSL"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1483,
+"no": 45,
+"has_arrived": true,
+"station": "BSL",
+"day": 2,
+"actarr": "01:01",
+"actdep": "01:20",
+"scharr": "23:25",
+"latemin": 96,
+"schdep": "23:35",
+"status": "96 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "5 Apr 2017",
+"station_": {
+"name": "JALGAON JN",
+"code": "JL"
+},
+"actarr_date": "5 Apr 2017",
+"distance": 1507,
+"no": 46,
+"has_arrived": true,
+"station": "JL",
+"day": 1,
+"actarr": "01:42",
+"actdep": "01:44",
+"scharr": "23:59",
+"latemin": 103,
+"schdep": "00:01",
+"status": "103 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "CHALISGAON JN",
+"code": "CSN"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1600,
+"no": 47,
+"has_arrived": true,
+"station": "CSN",
+"day": 2,
+"actarr": "03:02",
+"actdep": "03:04",
+"scharr": "00:59",
+"latemin": 123,
+"schdep": "01:01",
+"status": "123 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "MANMAD JN",
+"code": "MMR"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1667,
+"no": 48,
+"has_arrived": true,
+"station": "MMR",
+"day": 2,
+"actarr": "04:00",
+"actdep": "04:06",
+"scharr": "01:50",
+"latemin": 130,
+"schdep": "01:55",
+"status": "130 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "NASIK ROAD",
+"code": "NK"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1740,
+"no": 49,
+"has_arrived": true,
+"station": "NK",
+"day": 2,
+"actarr": "05:01",
+"actdep": "05:03",
+"scharr": "02:45",
+"latemin": 136,
+"schdep": "02:50",
+"status": "136 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "DEVLALI",
+"code": "DVL"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1746,
+"no": 50,
+"has_arrived": true,
+"station": "DVL",
+"day": 2,
+"actarr": "05:11",
+"actdep": "05:13",
+"scharr": "02:58",
+"latemin": 133,
+"schdep": "03:00",
+"status": "133 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "IGATPURI",
+"code": "IGP"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1791,
+"no": 51,
+"has_arrived": true,
+"station": "IGP",
+"day": 2,
+"actarr": "05:54",
+"actdep": "06:12",
+"scharr": "04:25",
+"latemin": 89,
+"schdep": "04:30",
+"status": "89 mins late"
+},
+{
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "KALYAN JN",
+"code": "KYN"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1874,
+"no": 52,
+"has_arrived": true,
+"station": "KYN",
+"day": 2,
+"actarr": "08:05",
+"actdep": "08:06",
+"scharr": "06:20",
+"latemin": 105,
+"schdep": "06:25",
+"status": "105 mins late"
+},
+{
+"has_departed": false,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "DADAR",
+"code": "DR"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1918,
+"no": 53,
+"has_arrived": false,
+"station": "DR",
+"day": 2,
+"actarr": "08:16",
+"actdep": "08:17",
+"scharr": "07:02",
+"latemin": 74,
+"schdep": "07:05",
+"status": "74 mins late"
+},
+{
+"has_departed": false,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "MUMBAI CST",
+"code": "CSTM"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1927,
+"no": 54,
+"has_arrived": false,
+"station": "CSTM",
+"day": 2,
+"actarr": "08:39",
+"actdep": "00:00",
+"scharr": "07:35",
+"latemin": 64,
+"schdep": "Destination",
+"status": "64 mins late"
+}
+],
+"current_station": {
+"has_departed": true,
+"scharr_date": "6 Apr 2017",
+"station_": {
+"name": "KALYAN JN",
+"code": "KYN"
+},
+"actarr_date": "6 Apr 2017",
+"distance": 1874,
+"no": 52,
+"has_arrived": true,
+"station": "KYN",
+"day": 2,
+"actarr": "08:05",
+"actdep": "08:06",
+"scharr": "06:20",
+"latemin": 105,
+"schdep": "06:25",
+"status": "105 mins late"
+},
+"start_date": "4 Apr 2017"
+}
